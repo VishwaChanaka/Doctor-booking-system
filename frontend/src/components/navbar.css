@@ -1,0 +1,12 @@
+hr {
+  /* background-color: #6262b4; */
+  background-color: blue;
+}
+
+.btn-1 {
+  background-color: rgb(18, 18, 181);
+}
+
+.active hr{
+    @apply block
+}
